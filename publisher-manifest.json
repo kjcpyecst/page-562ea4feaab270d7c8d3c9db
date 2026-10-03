@@ -1,0 +1,124 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "85fc422026df0e73a5d7e8c2",
+  "owner": "kjcpyecst",
+  "repo": "page-562ea4feaab270d7c8d3c9db",
+  "title": "一分机场",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "562ea4feaab270d7c8d3c9db",
+      "a": "一分机场",
+      "b": "",
+      "entity": "一分机场",
+      "brand": "一分机场",
+      "separator": "",
+      "path": "index.html",
+      "hash": "6822d4a53c22d2afe35769cabe693a9ed925b28d96b6b53462b17b681ec79a73",
+      "content": {
+        "keyword1": "一分机场",
+        "keyword2": "",
+        "primary_entity": "一分机场",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "一分机场提供稳定机场订阅与VPN梯子网络加速服务，涵盖套餐说明、多端客户端下载与配置指引，帮助用户从官网快速完成订阅导入与节点连接。",
+          "AI_DESCRIPTION": "一分机场提供稳定机场订阅与VPN梯子网络加速服务，涵盖套餐说明、多端客户端下载与配置指引，帮助用户从官网快速完成订阅导入与节点连接。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>html,body{margin:0;padding:0;background:#F7F4EE;color:#14261C;font-family:PingFang SC,Hiragino Sans GB,Microsoft YaHei,Noto Sans SC,sans-serif;font-size:16px;line-height:1.75;overflow-x:hidden}*{box-sizing:border-box}a{color:#1B4332;text-decoration:underline}img,svg{display:none}header{background:#1B4332;color:#F7F4EE;padding:14px 16px}header a{color:#F7F4EE;text-decoration:none;margin-right:12px;font-size:14px}header .brand{font-weight:700;margin-right:18px;letter-spacing:.06em}.wrap{max-width:920px;margin:0 auto;padding:0 16px;width:100%}.hero{padding:108px 16px 72px;text-align:center}.hero p.lead{max-width:34em;margin:18px auto 0;font-size:17px;color:#2C3E34}h1{margin:0;color:#1B4332;font-size:clamp(2rem,7vw,2.75rem);letter-spacing:.12em;line-height:1.25;font-weight:700}h2{color:#1B4332;font-size:1.55rem;margin:0 0 14px;line-height:1.35}h3{color:#2D6A4F;font-size:1.12rem;margin:18px 0 8px}section{padding:28px 0}p,li{word-wrap:break-word}#faq{padding:40px 0 20px}#faq h2{border-bottom:3px solid #2D6A4F;padding-bottom:10px;font-size:1.75rem}.plans{display:flex;flex-wrap:wrap;gap:12px}.plan{flex:1 1 250px;background:#fff;border:1px solid #C5D5CB;padding:18px 16px;min-width:0}.plan.featured{border:2px solid #1B4332;background:#E7F4EC}.price{font-size:1.35rem;color:#1B4332;font-weight:700;margin:6px 0}.annual{font-size:14px;color:#3D5C4A}.plan ul{margin:8px 0 0;padding-left:1.1em}.card{background:#fff;border:1px solid #D5E0D8;padding:16px;margin:12px 0}details{background:#fff;border:1px solid #B7CDBF;margin:0 0 12px;padding:4px 14px 10px}summary{font-weight:700;color:#1B4332;padding:12px 0;font-size:1.02rem}details p{margin:0 0 8px;color:#24362C}.note{font-size:14px;color:#3A5346}.adbox,.friends,.sitemap{background:#EFEBE3;border:1px solid #D8D0C4;padding:16px;margin:12px 0}footer{background:#1B4332;color:#E6F0EA;padding:28px 16px;margin-top:24px;font-size:14px}footer a{color:#E6F0EA}ol{padding-left:1.2em}.tag{display:inline-block;background:#2D6A4F;color:#F7F4EE;font-size:12px;padding:2px 8px;margin-bottom:8px}</style><header><div class=\"wrap\"><a class=\"brand\" href=\"#top\">一分机场</a><a href=\"#intro\">简介</a><a href=\"#plans\">套餐</a><a href=\"#scenes\">场景</a><a href=\"#guide\">说明</a><a href=\"#clients\">客户端</a><a href=\"#faq\">常见问题</a><a href=\"#sitemap\">网站地图</a></div></header><main id=\"top\"><div class=\"hero wrap\"><h1>一分机场</h1><p class=\"lead\">一分机场官方网站。面向跨境访问、流媒体解锁与游戏加速的机场订阅服务，提供套餐对照、VPN梯子网络加速说明以及主流客户端下载与导入步骤。</p></div><div class=\"wrap\"><section id=\"intro\"><h2>品牌简介</h2><p>一分机场是以订阅制接入为核心的网络加速服务。用户在官网完成套餐开通后，即可获取专属订阅链接，在 Clash、Shadowrocket、v2rayN 等客户端中一键导入节点，用于稳定访问国际网站、降低跨境延迟、解锁常见流媒体分区。服务强调清晰的流量档位、可预期的设备数量，以及可在手机与电脑之间同步使用的配置方式。</p><p>与临时公共节点不同，一分机场采用独立订阅与分流规则：系统流量、视频流量与游戏流量可按客户端策略分开处理。基础线路覆盖日常网页与通讯，旗舰档位增加 IPLC 专线游戏加速与原生流媒体解锁，团队档位面向工作室与多终端同时在线。页面内容对应官网下载与配置路径，不依赖第三方来源即可完成从选购到连上节点的全过程。</p></section><section id=\"plans\"><h2>订阅套餐</h2><p>以下为当前官网公示档位。年付按十个月计费，适合已经确认客户端与使用场景的用户。流量为每月重置的极速流量，到期未用完不结转。</p><div class=\"plans\"><article class=\"plan\"><h3>基础版</h3><p class=\"price\">¥15/月</p><p class=\"annual\">按年付仅需 ¥150/年</p><ul><li>每月 100GB 极速流量</li><li>支持 3 台设备同时在线</li><li>解锁基础流媒体</li><li>普通线路节点池</li></ul></article><article class=\"plan featured\"><p class=\"tag\">推荐</p><h3>旗舰版</h3><p class=\"price\">¥35/月</p><p class=\"annual\">按年付仅需 ¥350/年</p><ul><li>每月 300GB 极速流量</li><li>支持 5 台设备同时在线</li><li>全节点原生流媒体解锁</li><li>IPLC 专线游戏加速优化</li><li>7x24 优先工单支持</li></ul></article><article class=\"plan\"><h3>团队版</h3><p class=\"price\">¥85/月</p><p class=\"annual\">按年付仅需 ¥850/年</p><ul><li>每月 1000GB 极速流量</li><li>支持 20 台设备同时在线</li><li>VIP 专属高带宽节点</li><li>支持企业定制路由</li><li>专属客户经理服务</li></ul></article></div></section><section id=\"scenes\"><h2>使用场景</h2><div class=\"card\"><h3>跨境办公与远程协作</h3><p>访问海外文档、代码仓库、会议平台时，一分机场可将办公域名走加速通道，国内站点保持直连，减少整网代理带来的卡顿。三台以内设备的小团队可先用基础版验证延迟，再按会议与大文件同步需求升级。</p></div><div class=\"card\"><h3>学术检索与公开资料</h3><p>期刊站点、预印本与公开数据集常因线路质量出现超时。使用订阅内的标准节点即可完成检索与下载；若需长时间大批量拉取，建议选择流量更大的旗舰版或团队版，避免月中耗尽。</p></div><div class=\"card\"><h3>流媒体分区与画质稳定</h3><p>基础版覆盖常见平台的基础解锁。对原生版权库、4K 码率更敏感的用户应使用旗舰版全节点原生解锁，并在客户端开启对应区域节点与 UDP 转发，减少缓冲。</p></div><div class=\"card\"><h3>海外游戏与实时对战</h3><p>旗舰版标注 IPLC 专线游戏加速优化，适合对延迟抖动敏感的对战与登录器。将游戏进程加入规则，网页与下载走普通节点，可把专线带宽留给对局。</p></div><div class=\"card\"><h3>家庭多终端共享</h3><p>手机、平板、电脑同时在线时，请对照套餐设备上限。团队版支持 20 台设备与定制路由，适合工作室或家庭网关统一分流。</p></div></section><section id=\"guide\"><h2>操作说明</h2><p>按下列顺序即可在一分机场完成官网开通到客户端连上节点。全程只需订阅链接与本地客户端，无需额外插件。</p><ol><li>在官网选择基础版、旗舰版或团队版，完成支付后进入用户中心复制订阅地址。</li><li>根据系统下载对应客户端安装包，安装后打开「订阅」或「配置」入口。</li><li>粘贴订阅链接并更新节点列表，确认出现香港、日本、新加坡、美国等地区分组。</li><li>开启系统代理或 TUN 模式。日常浏览用规则分流，游戏与会议可临时改为全局。</li><li>首次连接后访问常用站点测试；若视频卡顿，切换同区域备用节点或改用旗舰 IPLC 组。</li></ol><p class=\"note\">订阅链接请仅保存在本机客户端。重置链接后，旧链接会失效，需在各设备重新导入。</p></section><section id=\"clients\"><h2>客户端下载与导入</h2><p>一分机场兼容常见代理协议客户端。请从各系统官方渠道获取安装包，再回到本站用户中心复制订阅。下列说明对应官网下载后的配置，不改变品牌原有的机场订阅方式。</p><h3>Windows</h3><p>推荐 v2rayN 或 Clash Meta for Windows。安装后选择「订阅 - 添加」，名称填写一分机场，地址粘贴用户中心链接，更新服务器后选择延迟较低的节点并开启系统代理。</p><h3>macOS</h3><p>可使用 Clash Verge 或 Surge。导入订阅后开启菜单栏图标，按分流规则运行。若需游戏加速，将对应应用加入旗舰版 IPLC 策略组。</p><h3>Android</h3><p>使用 Clash Meta 或类似图形客户端。允许 VPN 权限后更新配置。移动网络与 WLAN 切换后如未自动重连，在客户端内手动开启一次即可。</p><h3>iOS</h3><p>常用 Shadowrocket 或 Stash。通过「订阅」添加 URL，开启允许局域网与 UDP。iOS 每次系统更新后请检查 VPN 配置描述是否仍有效。</p><h3>网关与多设备</h3><p>团队版可将订阅用于旁路由或软路由，按域名与端口做企业定制路由。注意同时在线设备数计入套餐上限，超限时新设备会无法握手。</p></section><section id=\"nodes\"><h2>节点与加速能力</h2><p>一分机场普通线路节点池覆盖亚洲主要出口与北美、欧洲接入点，适合网页、通讯与基础流媒体。旗舰版在此基础上提供全节点原生流媒体解锁，并对热门对战与登录器做 IPLC 专线优化。团队版另开 VIP 高带宽节点，适合大文件与多人并发。</p><p>实际体感与本地运营商到入口的质量有关。建议在客户端开启 URL 测试，优先选择延迟稳定而非单纯最低的节点。流量统计以用户中心面板为准，视频与系统更新会明显占用月度额度。</p></section><section id=\"faq\"><h2>常见问题</h2><p>以下问题按官网实际开通与客户端使用整理，便于对照套餐与下载步骤自行排查。</p><details><summary>一分机场是什么？和普通 VPN 加速器有何不同？</summary><p>一分机场是订阅制机场服务：一次开通获得可更新的节点列表，而不是单一固定服务器。它同时承担 VPN 梯子网络加速与分流功能，可在多款客户端中使用。普通独立 VPN 往往只有一个 App 和少量节点；机场订阅的优势是节点更替快、规则可自定义，并按流量与设备数分档计费。</p></details><details><summary>如何从官网完成客户端下载并导入订阅？</summary><p>先在一分机场用户中心复制订阅链接，再按系统从 Clash、v2rayN、Shadowrocket 等客户端的官方来源下载安装包。打开客户端的订阅或配置页，粘贴链接并更新，选择节点后开启代理。本页「客户端下载与导入」一节按 Windows、macOS、Android、iOS 分别说明，链接仅使用页内锚点便于对照。</p></details><details><summary>基础版、旗舰版和团队版该怎么选？</summary><p>个人轻度浏览、三台设备以内选基础版，每月 100GB 与基础流媒体足够日常网页。需要原生流媒体、游戏 IPLC 与优先工单选旗舰版。工作室、教室或旁路由多终端选团队版，关注 20 台同时在线、1000GB 流量与定制路由。年付价格按十个月计算，适合已经跑通客户端的用户。</p></details><details><summary>支持哪些设备同时在线？超出上限会怎样？</summary><p>基础版 3 台、旗舰版 5 台、团队版 20 台。计数以同时建立握手的终端为准，同一账号在手机与电脑同时连接会占用多个名额。超出后新设备无法连接，已在线设备不受瞬间踢出，但建议先断开闲置终端或升级档位。</p></details><details><summary>流媒体解锁包含哪些能力？缓冲严重怎么办？</summary><p>基础版提供基础流媒体解锁，满足常见平台的标准画质。旗舰版与团队版强调全节点原生解锁，更适合区域片库与高码率。若缓冲，先换同地区备用节点，关闭其他占带宽任务，并确认客户端开启了 UDP。电视盒子请计入设备数，并使用支持 TUN 的客户端。</p></details><details><summary>流量用完或订阅到期后如何处理？</summary><p>月度极速流量用尽后，当月加速通道会降速或暂停，次月重置。可在用户中心升级到更高档位立即到账差额流量规则以套餐说明为准。到期前续费可保留原订阅链接；过期后需重新开通并在客户端更新。未使用流量不结转。</p></details><details><summary>一分机场是否提供 IPLC 与工单支持？</summary><p>IPLC 专线游戏加速优化写在旗舰版权益中，团队版另含 VIP 高带宽与专属客户经理。旗舰版提供 7x24 优先工单，基础版为常规队列。工单请附客户端名称、操作系统、订阅是否已更新以及测试的节点地区，便于定位是本地网络还是入口问题。</p></details></section><section id=\"ads\"><h2>广告</h2><div class=\"adbox\"><p>一分机场文字广告位：欢迎客户端教程站点、规则集维护者和网络工具媒体互换文字介绍。合作内容需与机场订阅、VPN 梯子网络加速或客户端下载说明相关，不放置弹窗与跳转脚本。意向请通过用户中心工单注明「广告合作」。</p></div></section><section id=\"friends\"><h2>友情链接</h2><div class=\"friends\"><p><a href=\"#clients\">客户端配置备忘</a> · <a href=\"#guide\">订阅导入步骤</a> · <a href=\"#plans\">套餐对照表</a> · <a href=\"#faq\">加速器问答</a> · <a href=\"#nodes\">节点与线路说明</a></p><p class=\"note\">友链均为本页锚点，便于在手机上单页查阅官网下载与使用说明，不跳转到站外脚本或表单。</p></div></section><section id=\"sitemap\"><h2>网站地图</h2><div class=\"sitemap\"><p>一分机场官方网站页面结构：</p><ul><li><a href=\"#top\">首页标题与品牌定位</a></li><li><a href=\"#intro\">品牌简介</a></li><li><a href=\"#plans\">订阅套餐</a></li><li><a href=\"#scenes\">使用场景</a></li><li><a href=\"#guide\">操作说明</a></li><li><a href=\"#clients\">客户端下载</a></li><li><a href=\"#nodes\">节点与加速能力</a></li><li><a href=\"#faq\">常见问题</a></li><li><a href=\"#ads\">广告</a></li><li><a href=\"#friends\">友情链接</a></li></ul></div></section></div><section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main><footer><div class=\"wrap\"><p>一分机场官网 · 机场订阅与 VPN 梯子网络加速服务说明</p><p>官方网站域名以用户中心显示为准。本页提供套餐、客户端下载指引与常见问题，便于在移动设备上完整阅读。</p><p><a href=\"#top\">返回顶部</a> · <a href=\"#sitemap\">网站地图</a></p></div></footer>",
+          "hash": "a2a92fbdf55673b187a4282968010a22828f950600af70218fd50e7f12af18b8",
+          "seo": {
+            "title": "一分机场官网 | 机场订阅、VPN梯子网络加速与客户端下载",
+            "keywords": "一分机场,一分机场官网,一分机场下载,一分机场VPN,机场订阅,VPN梯子,网络加速,加速器,客户端下载,Clash,官方网站",
+            "description": "一分机场提供稳定机场订阅与VPN梯子网络加速服务，涵盖套餐说明、多端客户端下载与配置指引，帮助用户从官网快速完成订阅导入与节点连接。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "huaxianrg.cn",
+    "host": "p-8524c84f52.huaxianrg.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [
+    {
+      "host": "huaxianrg.cn",
+      "url": "https://huaxianrg.cn/",
+      "label": "优云666",
+      "apex": "huaxianrg.cn",
+      "kind": null,
+      "identity": "akmahkpc/page-a32b97bf97be580bffcaee97"
+    },
+    {
+      "host": "wankaiyang.cn",
+      "url": "https://wankaiyang.cn/",
+      "label": "一分机场",
+      "apex": "wankaiyang.cn",
+      "kind": null,
+      "identity": "jxedmwqn/page-a5464cccb692260f74abf25e"
+    },
+    {
+      "host": "xn--9kqw92a83i.com",
+      "url": "https://xn--9kqw92a83i.com/",
+      "label": "一分机场",
+      "apex": "xn--9kqw92a83i.com",
+      "kind": null,
+      "identity": "kcmgexnmk/page-d9abdd615d207d06c91dc52f"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "aedacee82fffb7601feff7abeffbf28f22e69684366e7be686d776909481d716",
+    "sitemap.xml": "fa46f53bca4da1334ab4013ce983f9145595298ede3668c2270060f842c4e506",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "bdee8548b92f8633d08c7e6a4ba4659e8b8e3eec209b62470856068769558e08",
+    "robots.txt": "9fb2140689cc0e793dd2d91922d0e876e224730657ec7c3832fab39b929ed18a",
+    "75a936b6ae135e9341837c4bd078c4a5.txt": "9f22e26bcb503b0794d1329e53cc63aa9c07eec52198933733bff1470bb900a9"
+  },
+  "revision": "832d80eb4470694812eb0cf0fea16586899cc112ac11c04c9a3223cbb9e59d52"
+}
